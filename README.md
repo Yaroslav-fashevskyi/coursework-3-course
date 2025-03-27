@@ -1,6 +1,6 @@
 # coursework-3-course
 
-Версія 1.0 [main.json](main.py) 
+Версія 1.0 [main.py](main.py) 
 
 Версія 2.0 [v-0-0-2-0.py](v-0-0-2-0.py) 
 
