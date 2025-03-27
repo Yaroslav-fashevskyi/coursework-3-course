@@ -1,0 +1,34 @@
+[
+    {
+        "id": "30cc4ad3-2c6c-48fb-ad90-9fcf016bea27",
+        "title": "тест",
+        "description": "бобер",
+        "author": "бобер2",
+        "duration": 23,
+        "category": "бобр"
+    },
+    {
+        "id": "68eca841-80a4-4a93-9f08-4715d967f67a",
+        "title": "бобер",
+        "description": "бобр",
+        "author": "бобер1",
+        "duration": 42,
+        "category": "бобри"
+    },
+    {
+        "id": "a2f49bd3-8596-4509-a7c0-d9cff8dfa70d",
+        "title": "тест",
+        "description": "Глибоке занурення",
+        "author": "бобр",
+        "duration": 90,
+        "category": "Програмування"
+    },
+    {
+        "id": "e673784b-9833-4c9d-8e18-503869e864c9",
+        "title": "бобер",
+        "description": "бобри",
+        "author": "бобер1",
+        "duration": 421,
+        "category": "нема"
+    }
+]
