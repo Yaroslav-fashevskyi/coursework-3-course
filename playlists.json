@@ -1,0 +1,16 @@
+[
+    {
+        "id": "897c5fc3-e746-4ebf-850d-2e3d4cd4734b",
+        "name": "тест",
+        "lessons": [
+            {
+                "id": "dc9a82e6-0d80-46dd-af10-70fb3439e091",
+                "title": "назва",
+                "description": "опис",
+                "author": "автор",
+                "duration": 70,
+                "category": "категорія"
+            }
+        ]
+    }
+]
