@@ -260,7 +260,7 @@ def main():
         catalog.add_lesson(VideoLesson("Advanced Python", "Глибоке занурення", "Юля", 90, "Програмування"))
 
     while True:
-        print("\n--- Головне меню ---")
+        print("--- Головне меню ---")
         print("1. Показати каталог уроків")
         print("2. Додати новий урок")
         print("3. Редагувати урок")
