@@ -250,14 +250,14 @@ class PlaylistManager:
 
 
 def main():
-    catalog = Catalog()  # Дані завантажуються з файлу "catalog.json"
-    playlist_manager = PlaylistManager()  # Дані плейлистів з файлу "playlists.json"
+    catalog = Catalog()
+    playlist_manager = PlaylistManager()
 
     # Тестове додавання уроків, якщо файл порожній
     if not catalog.lessons:
-        catalog.add_lesson(VideoLesson("Python Basics", "Вступ до Python", "Alice", 45, "Програмування"))
-        catalog.add_lesson(VideoLesson("OOP in Python", "Класи та об'єкти", "Bob", 60, "Програмування"))
-        catalog.add_lesson(VideoLesson("Advanced Python", "Глибоке занурення", "Charlie", 90, "Програмування"))
+        catalog.add_lesson(VideoLesson("Python Basics", "Вступ до Python", "Ярослав", 45, "Програмування"))
+        catalog.add_lesson(VideoLesson("OOP in Python", "Класи та об'єкти", "Олег", 60, "Програмування"))
+        catalog.add_lesson(VideoLesson("Advanced Python", "Глибоке занурення", "Юля", 90, "Програмування"))
 
     while True:
         print("\n--- Головне меню ---")
