@@ -1,66 +1,26 @@
 [
     {
-        "id": "1375620f-841e-4ae2-9bcb-4a3aa6af2529",
-        "title": "новий урок",
-        "description": "пояснення нового уроку",
-        "author": "ярік бачок потік",
-        "duration": 12,
-        "category": "екшн"
+        "id": "4d8a0217-745f-4821-a0d1-246b6fbb7778",
+        "title": "Тестування програми",
+        "description": "Повне тестування нашої програми",
+        "author": "Ярослав",
+        "duration": 34,
+        "category": "Тестування"
     },
     {
-        "id": "b3bdfcaa-3df8-428c-a27c-6da30d4d160d",
-        "title": "потужно",
-        "description": "незламна потужність",
-        "author": "потужний автор",
-        "duration": 12,
-        "category": "потужність"
-    },
-    {
-        "id": "b46766e7-1375-433e-9a75-f4f933da937b",
-        "title": "новий потужний",
-        "description": "потужний опис",
-        "author": "потужний автор",
-        "duration": 43,
-        "category": "потужність"
-    },
-    {
-        "id": "65500b10-e1d7-427f-97d0-2552b4aa75bc",
-        "title": "тес",
-        "description": "тест",
-        "author": "нема",
-        "duration": 22,
-        "category": "нема"
-    },
-    {
-        "id": "a2f49bd3-8596-4509-a7c0-d9cff8dfa70d",
-        "title": "тест",
-        "description": "Глибоке занурення",
-        "author": "бобр",
-        "duration": 90,
+        "id": "fc001217-8be9-4629-b6a8-0f841d13a99f",
+        "title": "OOP in Python",
+        "description": "Класи та об'єкти",
+        "author": "Олег",
+        "duration": 60,
         "category": "Програмування"
     },
     {
-        "id": "e673784b-9833-4c9d-8e18-503869e864c9",
-        "title": "бобер",
-        "description": "бобри",
-        "author": "бобер1",
-        "duration": 421,
-        "category": "нема"
-    },
-    {
-        "id": "68eca841-80a4-4a93-9f08-4715d967f67a",
-        "title": "бобер",
-        "description": "бобр",
-        "author": "бобер1",
-        "duration": 42,
-        "category": "бобри"
-    },
-    {
-        "id": "dc9a82e6-0d80-46dd-af10-70fb3439e091",
-        "title": "назва",
-        "description": "опис",
-        "author": "автор",
-        "duration": 70,
-        "category": "категорія"
+        "id": "68e1507d-66a6-436b-8079-897624a7fb25",
+        "title": "Advanced Python",
+        "description": "Глибоке занурення",
+        "author": "Юля",
+        "duration": 90,
+        "category": "Програмування"
     }
 ]

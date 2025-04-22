@@ -40,7 +40,7 @@ class VideoLesson:
 
 
 class Catalog:
-    def __init__(self, filename="catalog.json"):
+    def __init__(self, filename="1catalog.json"):
         self.filename = filename
         self.lessons = []
         self.load_from_file()
@@ -157,7 +157,7 @@ class Playlist:
 
 
 def main():
-    catalog = Catalog()  # Дані завантажуються з файлу "catalog.json"
+    catalog = Catalog()  # Дані завантажуються з файлу "1catalog.json"
     # Тестове додавання уроків, якщо в файлі нічого немає
     if not catalog.lessons:
         catalog.add_lesson(VideoLesson("Python Basics", "Вступ до Python", "Alice", 45, "Програмування"))
